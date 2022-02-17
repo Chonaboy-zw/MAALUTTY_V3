@@ -26,11 +26,9 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTYV3-QR)
   
-  ### Deploy server 1
+💖💖💖💖💖💖💖
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALU) 
-
-  ### Deploy server 2
+  ### Deploy to heroku
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HUSNI-SIR/MAALUTTY_DEPLOY)
 
