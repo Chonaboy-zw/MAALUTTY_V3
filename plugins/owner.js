@@ -29,7 +29,7 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
       ]
       
       const buttonMessage = {
-          contentText: '╭───𒆜𝙊𝙒𝙉𝙀𝙍𝙎𒆜\n│🥂 ꪶ͢chonaboyꫂ⁩\n│\n│🥂 ꪶ͢machonaꫂ⁩\n╰───────────────𒈒',
+          contentText: '╭───𒆜𝙊𝙒𝙉𝙀𝙍𝙎𒆜\n│🥂 ꪶ͢chonaboyꫂ⁩\n│\n│🥂 ꪶ͢ꫂ⁩\n╰───────────────𒈒',
           footerText: '©ꪶ͢chonaboyꫂ',
           buttons: buttons,
           headerType: 1
